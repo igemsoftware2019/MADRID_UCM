@@ -8,6 +8,7 @@
 This was a long project that involved:
 
  * [1] The robotic automatization of biotechnological protocols.
+ 
        All the custom hardware deisgn can be found at OT_Robot/hardware_design
  * [2] The usage of Artifical Intelligence
  * [3] A search engine 
