@@ -86,7 +86,7 @@ In relation to the case, we redesigned the NinjaPCR case with a 3D modelling sof
 We redesigned it because we used another fan.
 
 
-<p align="center"><img src="https://github.com/Zildj1an/SELEX/blob/master/OT_Robot/img/termaux.png" alt="" width="350" height = "320"/></p>
+<p align="center"><img src="https://github.com/igemsoftware2019/MADRID_UCM/blob/master/OT_Robot/img/pcbb.png" alt="" width="350" height = "320"/></p>
 
 
 ## Shaker Module
