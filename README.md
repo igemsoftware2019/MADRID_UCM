@@ -23,7 +23,7 @@ Folder OT_Robot contains biotechnological protocols for obtaining trained librar
 
 The small-sized thermal cycler is controlled via motherboard Ninja-PCR Arduino-alike, as shown above, manually welded, whose code is in NinjaPCR [folder](https://github.com/Zildj1an/SELEX/tree/master/NinjaPCR). You can update a new binary since ESP8266 SystemOnChip includes the TCP/IP stack. We also recommend the usage of an external Raspberry Pi to uninterruptedly provide the robot with Wi-Fi. You can find more information about usage at [5].
 
-<img src="https://github.com/Zildj1an/SELEX/blob/master/OT_Robot/img/PCR.png" alt="" width="350"/> <img src="https://github.com/Zildj1an/SELEX/blob/master/OT_Robot/img/potentiostato.png" alt="" width="445"/>
+<img src="https://github.com/igemsoftware2019/MADRID_UCM/blob/master/OT_Robot/img/PCR.png" alt="" width="350"/> <img src="https://github.com/igemsoftware2019/MADRID_UCM/blob/master/OT_Robot/img/potentiostato.png" alt="" width="445"/>
 
 ###  The SELEX Process 🌿
 Aptamers are a cutting-edge technology that is revolutionizing biotechnology, from biosensing to synthetic biology. Aptamers are single-strand DNA molecules that hold nature’s most important information: our genetic code. But instead of using DNA for carrying information, our aptamers depend on DNA’s 3-dimensional shape. 
