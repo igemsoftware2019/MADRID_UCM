@@ -38,7 +38,7 @@ _The SELEX process_
 
 We also did an **Artificial Intelligence algorithm** to predict the optimal DNA molecule shapes. It is a Generative adversarial network, divided in two neuronal networks: the Generative and the Discriminative. CNN nets are used. 
 
-<p align="center"><img src="https://github.com/Zildj1an/SELEX/blob/master/OT_Robot/img/molecule2.gif" alt="" width="400"/></p>
+<p align="center"><img src="https://github.com/igemsoftware2019/MADRID_UCM/blob/master/OT_Robot/img/gif03.gif" alt="" width="400"/></p>
 
 _Generated aptamer_
 
